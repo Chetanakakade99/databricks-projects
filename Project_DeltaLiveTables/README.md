@@ -37,6 +37,4 @@ The pipeline simulates real-world scenarios involving:
 - Joining the tables silver_customers, silver_addresses and silver_orders
 - Retrieved the latest Address of the customer - since Customer had SCD type 2, it saves all the previous addresses as well
 - Calculated the following values:
-    total_orders
-    total_items_ordered
-    total_order_amount
+    i) total_orders | ii) total_items_ordered | iii) total_order_amount
